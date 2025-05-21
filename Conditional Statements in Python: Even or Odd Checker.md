@@ -20,8 +20,9 @@ else:
     print(f"{num} is Odd.")
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/8ddce6a4-3069-48c0-ba2f-f8c7afa05777)
+![image](https://github.com/user-attachments/assets/21d583ea-b496-4ef9-8de2-a1dbc704613a)
 
 
 ## Result
-        program executed successfully
+
+program executed successfully
